@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AwesomeGRV
 - 👀 I’m interested in LATEST TECH
-- 🌱 I’m currently learning WEB 3.0
+- 🌱 Keep Learning!!!
 
 <!---
 AwesomeGRV/AwesomeGRV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
